@@ -1,4 +1,4 @@
-*.js linguist-language=Android
-*.css linguist-language=Android
-*.html linguist-language=Android
-*.java linguist-language=Android
+*.js linguist-language=Java
+*.css linguist-language=Java
+*.html linguist-language=Java
+*.java linguist-language=Java
